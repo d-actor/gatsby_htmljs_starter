@@ -1,4 +1,4 @@
-//for configuring how index.html is rendered
+//for configuring index.html
 
 import React from 'react';
 import favicon from './favicon.ico';
